@@ -15,7 +15,7 @@ A Python script that scrapes property data from a website and automatically fill
 
 ## 📸 Screenshot
 
-Site- – Zillow Clone
+Site – Zillow Clone
 
 <img width="1470" height="956" alt="site" src="https://github.com/user-attachments/assets/5bde40d7-c259-41ed-8f38-2264eb0bec22" /><br>
 
